@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;spring_mvc_royal/src/main/java/com/controller/Controller.java&apos;" deleteContents="false" description="Delete resource &apos;spring_mvc_royal/src/main/java/com/controller/Controller.java&apos;" element1="/spring_mvc_royal/src/main/java/com/controller/Controller.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1627652870780"/>
+</session>

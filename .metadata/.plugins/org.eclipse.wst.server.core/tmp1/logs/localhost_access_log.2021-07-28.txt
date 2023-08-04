@@ -1,0 +1,2 @@
+127.0.0.1 - - [28/Jul/2021:19:03:21 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [28/Jul/2021:19:03:21 +0530] "GET /Spring_mvc/WEB-INF/classes/com/controller/Controller1.java HTTP/1.1" 404 682

@@ -1,0 +1,4 @@
+127.0.0.1 - - [21/Jul/2021:20:01:43 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [21/Jul/2021:20:01:44 +0530] "GET /Spring_mvc/ HTTP/1.1" 200 152
+127.0.0.1 - - [21/Jul/2021:20:01:47 +0530] "GET /Spring_mvc/addEmployee HTTP/1.1" 500 9612
+127.0.0.1 - - [21/Jul/2021:20:01:56 +0530] "GET /Spring_mvc/employee/dashbord HTTP/1.1" 500 9612
